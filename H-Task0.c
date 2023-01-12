@@ -13,7 +13,7 @@ int main(){
 		printf("%d \t",i);
 		scanf("&i");
 }
-sum = n+i ;
+sum=(n*(n+1))/2 ;
 printf("Sum of numbers = %d \n",sum);
 
 	return 0;
